@@ -9,6 +9,7 @@ We’ve all seen people suffer from diseases like cancer, heart disease, chronic
 
 By automating nucleus detection, you could help unlock cures faster—from rare disorders to the common cold. Want a snapshot about the 2018 Data Science Bowl?
 
+
 Epoch 1/25
 2023-12-05 20:51:22.983841: W tensorflow/tsl/platform/profile_utils/cpu_utils.cc:128] Failed to get CPU frequency: 0 Hz
 38/38 [==============================] - 19s 480ms/step - loss: 0.5259 - accuracy: 0.7603 - val_loss: 0.3004 - val_accuracy: 0.8905
